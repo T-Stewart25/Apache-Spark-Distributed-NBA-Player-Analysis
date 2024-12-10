@@ -165,7 +165,7 @@ To properly run the project in a distributed environment, ensure the following c
 #### 2. GUI Configuration
 *User input feilds for Computer Name, Port, SQLite File Path, CSV File Path*
 
-![GUI UI](images/4.png)
+![GUI UI](images/2.png)
 
 #### 3. Generated Heatmaps
 *Interactive heatmaps displaying performance trends based on criteria.*
@@ -193,7 +193,7 @@ To properly run the project in a distributed environment, ensure the following c
 
 ## Contact
 For any issues or questions, please contact the contributors:
-- **Thomas Stewart**: [Email](mailto:tstewart@example.com), [Portfolio](https://github.com/tstewart-portfolio)
-- **Nels Motley**: [Email](mailto:nm@example.com)
-- **Kyle Benson**: [Email](mailto:kb@example.com)
+- **Thomas Stewart**: [Email](mailto:thomaslstewart1@gmail.com), [Portfolio](https://thomasstewartpersonal.com)
+- **Nels Motley**: [Email](mailto:Nels.motley@gmail.com)
+- **Kyle Benson**: [Email](mailto:kyle.benson@colostate.edu)
 
