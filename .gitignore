@@ -1,2 +1,4 @@
-IDReduce/target
-GUI/target
+/IDReduce/target/*
+/GUI/target/*
+IDReduce/target/*
+GUI/target/*
