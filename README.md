@@ -153,6 +153,29 @@ To properly run the project in a distributed environment, ensure the following c
 
 ---
 
+## Project in Action
+
+### Screenshots
+
+#### 1. GUI Interface
+*User input fields for player name and team, alongside configuration options.*
+
+![GUI Interface](images/3.png)
+
+#### 2. GUI Configuration
+*User input feilds for Computer Name, Port, SQLite File Path, CSV File Path*
+
+![GUI UI](images/4.png)
+
+#### 3. Generated Heatmaps
+*Interactive heatmaps displaying performance trends based on criteria.*
+
+![Heatmap Example1](images/4.png)
+![Heatmap Example2](images/5.png)
+![Heatmap Example2](images/6.png)
+
+---
+
 ## Opportunities for Future Enhancements
 - **Advanced NLP:** Replace keyword-based classification with natural language processing for improved accuracy.
 - **Live Data Integration:** Enable real-time analysis of ongoing NBA games.
@@ -170,7 +193,7 @@ To properly run the project in a distributed environment, ensure the following c
 
 ## Contact
 For any issues or questions, please contact the contributors:
-- **Thomas Stewart**: [Email](mailto:thomaslstewart1@gmail.com), [Portfolio](https://thomasstewartpersonal.com)
-- **Nels Motley**: [Email](mailto:nels.motley@colostate.edu)
-- **Kyle Benson**: [Email](mailto:kyle.benson@colostate.edu)
+- **Thomas Stewart**: [Email](mailto:tstewart@example.com), [Portfolio](https://github.com/tstewart-portfolio)
+- **Nels Motley**: [Email](mailto:nm@example.com)
+- **Kyle Benson**: [Email](mailto:kb@example.com)
 
