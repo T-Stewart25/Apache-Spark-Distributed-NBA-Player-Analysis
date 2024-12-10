@@ -170,8 +170,11 @@ To properly run the project in a distributed environment, ensure the following c
 #### 3. Generated Heatmaps
 *Interactive heatmaps displaying performance trends based on criteria.*
 
+##### Point Deficit *0 is tied*
 ![Heatmap Example1](images/4.png)
+##### Quarter *5 and 6 are overtime**
 ![Heatmap Example2](images/5.png)
+##### Home vs Away *0 is away, 1 is home, and 2 is all star and other specialty games*
 ![Heatmap Example2](images/6.png)
 
 ---
