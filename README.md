@@ -1,7 +1,3 @@
-Here’s a clean and formatted version of your document:
-
----
-
 # NBA Player Performance Heatmap Analysis
 
 ## Project Overview
