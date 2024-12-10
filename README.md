@@ -174,7 +174,3 @@ For issues or questions, contact:
 - **Thomas Stewart:** [Email](mailto:thomaslstewart1@gmail.com) | [Portfolio](https://thomasstewartpersonal.com)
 - **Nels Motley:** [Email](mailto:Nels.motley@gmail.com)
 - **Kyle Benson:** [Email](mailto:kyle.benson@colostate.edu)
-
---- 
-
-This formatting ensures clarity, consistency, and professional presentation. Let me know if you need further adjustments!
